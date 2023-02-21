@@ -38,6 +38,9 @@ book.json
 			// "Source Code Pro"
 			"family": "msyh",
 			"size": 2
+		},
+		"pdf": {
+			"fontFamily": "Source Code Pro"
 		}
     }
 }
