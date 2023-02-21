@@ -35,6 +35,7 @@ book.json
             }
         },
 		"fontSettings": {
+			// "Source Code Pro"
 			"family": "msyh",
 			"size": 2
 		}
