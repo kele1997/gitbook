@@ -50,9 +50,9 @@ book.json
 ## Usage
 
 生成 pdf 
-```docker run -it --rm  -v `pwd`:/gitbook kele1997/gitbook gitbook pdf```
+```docker run -it --rm  -v `pwd`:/gitbook kele1997/gitbook  pdf```
 
 server
 
-```docker run -d `pwd`:/gitbook kele1997/gitbook gitbook serve```
+```docker run -d `pwd`:/gitbook kele1997/gitbook  serve```
 
